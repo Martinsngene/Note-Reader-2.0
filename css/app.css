@@ -1,0 +1,36 @@
+
+
+body{
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%,
+ rgba(14,14,76,0.8768898488120951) 37%, rgba(0,212,255,1) 92%);
+}
+
+body a{
+	text-decoration: none;
+	color: #aaa;
+}
+
+.logo h1{
+	font-family: poppins, sans-serif;
+	font-size: 3rem;
+	color: #fff;
+	opacity: 0.8;
+}
+
+.logo h1 small{
+	font-size: 1rem;
+}
+
+.displayBox{
+	width: 100%;
+	font-family: Poppins, sans-serif;
+}
+
+.scroll-box{
+	overflow-y: auto;
+	height: 500px;
+	float: left;
+	padding: 1rem;
+}
+
